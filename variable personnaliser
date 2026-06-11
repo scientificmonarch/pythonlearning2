@@ -1,0 +1,9 @@
+prenom = "scmonarch"
+print(prenom)
+age = 25
+print(age)
+affiche = "je m'appelle scientfic et j'ai 25 ans"
+print(affiche)
+est_etudiant = True 
+print(est_etudiant)
+
